@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![github-state](https://github-readme-stats.vercel.app/api?username=liangsheng715)
-
+![github-state](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=liangsheng715)
 <!--
 **liangsheng715/liangsheng715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
