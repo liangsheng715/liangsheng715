@@ -5,6 +5,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liangsheng715&hide_border=true&show_icons=true" alt="liangsheng715's github stats"/>
 </p>
 
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liangsheng715&show_icons=true&hide_border=true" alt="liangsheng715" />
+</p>
+
 <p>
   <b>For more Github info </b>
   <a href="https://gitprofilee.netlify.app/user?id=liangsheng715">check this</a>
